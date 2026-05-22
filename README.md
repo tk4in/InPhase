@@ -15,5 +15,5 @@
 - <b>Botão de emergencia</b>
 - <b>Monitoramento de consumo</b>
 
-- ## Como não achei nada que me agradace resolvi fazer uma
+- ## Como não achei nada que me agradasse resolvi fazer uma
 <img alt="InPhase-TK250-14" src="https://github.com/tk4in/InPhase/blob/d31f58abbfc425ef21eef5e7a3e004880acc09a2/media/inphase-1.png" height="480"/>
