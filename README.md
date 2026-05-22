@@ -17,3 +17,4 @@
 
 - ## Como não achei nada que me agradasse resolvi fazer uma
 <img alt="InPhase-TK250-14" src="https://github.com/tk4in/InPhase/blob/d31f58abbfc425ef21eef5e7a3e004880acc09a2/media/inphase-1.png" height="480"/>
+<img alt="InPhase-TK250-14" src="https://github.com/tk4in/InPhase/blob/86902df007a79cf04c6e50ad17616f9a9c7b95e2/media/inphase-2.png" height="480"/>
